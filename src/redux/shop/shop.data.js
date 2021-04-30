@@ -199,6 +199,12 @@ const SHOP_DATA = {
         imageUrl: "https://i.ibb.co/qBcrsJg/white-vest.png",
         price: 20,
       },
+      {
+        id: 291,
+        name: "Jordan Hoodie",
+        imageUrl: "https://i.ibb.co/89Swfsj/jordan-hoodie-05c1-PG.jpg",
+        price: 30,
+      },
     ],
   },
   mens: {
@@ -241,6 +247,19 @@ const SHOP_DATA = {
         name: "Burgundy T-shirt",
         imageUrl: "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
         price: 25,
+      },
+      {
+        id: 36,
+        name: "Wildrun T-shirt",
+        imageUrl:
+          "https://i.ibb.co/qr188Gk/rise-365-wild-run-short-sleeve-running-top-q-J4q-PS.jpg",
+        price: 25,
+      },
+      {
+        id: 37,
+        name: "Winter Long Jacket",
+        imageUrl: "https://i.ibb.co/3vHDWVg/V5-1355854-001-FC.jpg",
+        price: 75,
       },
     ],
   },
