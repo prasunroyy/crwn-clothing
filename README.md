@@ -9,7 +9,7 @@ This is a sample application that demonstrates an E-commerce website using React
 Here are some screenshots of the application.
 
 **Home Page**
-![Home Page](client/src/screenshots/homePage.png?raw=true "Home Page")
+![Home Page](client/src/screenshots/HomePage.png?raw=true "Home Page")
 
 **All Items Page**
 
